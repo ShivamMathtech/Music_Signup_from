@@ -1,0 +1,12 @@
+.main-page {
+  height: 100vh;
+  background: linear-gradient(
+    to right top,
+    #273238,
+    #2c3137,
+    #373037,
+    #3e2e38,
+    #6d1f2d,
+    #97192e
+  );
+}
